@@ -3,10 +3,9 @@ body {
     font: normal 15pt Arial;
 }
 
-header {
+h1 {
     color: white;
     text-align: center;
-
 }
 
 section {
